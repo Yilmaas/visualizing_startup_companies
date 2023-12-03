@@ -9,3 +9,5 @@
 across India.</li>
 <li>Technology Used: Tableau, MySQL, Python, Flask, Bootstrap.</li>
 </ul>
+
+![](https://github.com/rudeUltra/food/blob/master/public/food.gif)
